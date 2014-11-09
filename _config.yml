@@ -1,0 +1,44 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		RISE OF //CODE BLOG
+tagline:	RISE OF //CODE BLOG
+description:	'RISE OF //CODE BLOG'
+url:		http://blog.riseofcode.com
+
+author:
+  name:		'Katie Williams, M.Ed.'
+  url:		http://www.riseofcode.com
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.jpg
+cover:	/assets/images/white.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/riseofcode
+    desc:	Follow us on twitter
+
+  - icon:	instagram
+    url:	http://www.instagram.com/riseofcode
+    desc:	Follow us on instagram
+    
+menu:
+  - title:	Home
+    url:	http://www.riseofcode.com
+    
+  - title:	About
+    url:	http://blog.riseofcode.com/about
+    
+copyright:
+  author:	Katie Williams
+  url:		http://www.riseofcode.com
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
